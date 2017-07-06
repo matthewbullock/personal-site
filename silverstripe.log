@@ -1,0 +1,1 @@
+[24-Apr-2017 23:44:49] Error at framework/model/connect/PDOConnector.php line 172: Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) (http://54.206.37.67/html/personal-site/)
