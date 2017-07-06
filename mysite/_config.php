@@ -16,4 +16,4 @@ $databaseConfig = array(
 Director::set_environment_type("dev");
 
 i18n::set_locale('en_US');
-Security::setDefaultAdmin('flash', 'Jorgen_1993');
+Security::setDefaultAdmin('FLASH', 'JORGEN');
