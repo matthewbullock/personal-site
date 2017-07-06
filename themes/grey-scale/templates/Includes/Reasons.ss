@@ -18,7 +18,7 @@
 					<li>
 						<a data-toggle="tab" data-target="#menu1" aria-expanded="true" aria-controls="home">
 							<h3 class="tab-heading">2</h3>
-							<p>Custom</p>
+							<p>Analytics</p>
 						</a>
 					</li>
 					<li>
@@ -36,7 +36,7 @@
 					<li>
 						<a data-toggle="tab" data-target="#menu4" aria-expanded="true" aria-controls="home">
 							<h3 class="tab-heading">5</h3>
-							<p>Social</p>
+							<p>Content</p>
 						</a>
 					</li>
 				</ul>
@@ -50,7 +50,7 @@
 								<p>This means that the website I build for you, will have custom design for laptops, mobiles and tablets.</p>
 								<p>If someone finds your site on their phone, they won't have to navigate through a site built for a desktop. Instead the site will be stripped down and simplier, making it easier to navigate for the phones smaller screen.</p>
 								<p>You can try it yourself too. On this site, try minimizing the browser screen, and notice how the content and the navigation bar automaitcally re-aligns itself depending on the size of the browser.</p>
-								<p>Now look at this old site, and see how as your screen gets smaller, you have to now scroll sideways and around to navigate the page.</p>
+								<p>Now look at <a href="http://www.cranleighdc.com/" target="_blank">this old site</a>, and see how as your screen gets smaller, you have to now scroll sideways and around to navigate the page.</p>
 							</div>
 							 <!-- <div class="col-md-4">
 	 					; 		<div class="item">
@@ -62,10 +62,9 @@
 					<div id="menu1" class="tab-pane fade">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
-						<h3>Custom</h3>
-						<p>The websites I build use a Content Management System (CMS) called <a href="https://www.silverstripe.org/" target="_blank">SilverStripe</a>.</p>
-						<p>What this means for you, is that you can easily customize the content on any page of your website without consulting me beforehand.</p>
-						<p>This lets you keep the content of your website relevant. Especially useful if you are a pub or restaurant as you can keep your customers updated on what events are coming up.</p>
+						<h3>Analytics</h3>
+						<p>Are you a data fanatic that wants to see excatly how many people are viewing your website and where they are coming from?</p>
+						<p>With my websites I will be able to provide these types of analytics to you on a daily basis and easily show you how you can to.</p>
 					</div>
 				</div>
 					</div>
@@ -84,6 +83,8 @@
 						<h3>Hosting</h3>
 						<p>This feature might go right over your head, but believe me, it is one of the most important features you will want for a website.</p>
 						<p>Not having good hosting can cost you in many ways. A slow site is frustrating and both could turn off customers. But beyond annoying your users, poor hosting can also affect your rank in search engines, since many search engine algorithms detect webpage loading speed.</p>
+						<p>For my hosting, I use Amazon Web Services(aws) which is a cheap but fast solution. </p>
+						<p>Put simply, Netflix use's AWS so you know it must be good.</p>
 							</div>
 				</div>
 					</div>
