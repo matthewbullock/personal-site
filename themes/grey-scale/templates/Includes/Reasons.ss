@@ -2,8 +2,7 @@
 	<div class="row">	
 		<div class="col-lg-12 text-center">
 				<h2 class="section-heading">Features</h2>
-				<p data-scrollreveal="enter up move 50px over 3.5s">A list of some of the features my websiuild my websites from scrath, tes will provide you.</p>
-				<p data-scrollreveal="enter up move 50px over 3.5s">I build my websites from scratch, so if their is a useful or cool feature you have seen before, chances are we will be able to incorperate it into your website.</p>
+				<p data-scrollreveal="enter up move 50px over 3.5s">A list of some of the features my websites will provide you.</p>
 			</div>
 		</div>
 		<div class="row inner-top-sm" data-scrollreveal="enter up move 50px over 2.5s">
