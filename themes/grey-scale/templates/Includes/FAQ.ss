@@ -59,7 +59,7 @@
                 <div id="collapse3" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>Not at all. The websites I build use what is called a Content Management System (CMS). This will allow you to log-in to the website and change content and create new pages.</p>
-                    <p>By giving you the ability to change your content, it means you don't have to rely on me, if you want to get information on your website quickly.</p>
+                    <p>By giving you the ability to change your content, it means you don't have to rely on me. For example, if you want to get information on your website quickly without the hassle of waiting for me to do it myself.</p>
                 </div>
                   </div>
               </div>
