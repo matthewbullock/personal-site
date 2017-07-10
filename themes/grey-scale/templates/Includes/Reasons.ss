@@ -82,7 +82,7 @@
 						<h3>Hosting</h3>
 						<p>This feature might go right over your head, but believe me, it is one of the most important features you will want for a website.</p>
 						<p>Not having good hosting can cost you in many ways. A slow site is frustrating and could turn off customers. But beyond annoying your users, poor hosting can also affect your rank in search engines, since many search engine algorithms detect webpage loading speed.</p>
-						<p>For my hosting, I use Amazon Web Services (AWS) which is a cvery cost effective and fast solution.</p>
+						<p>For my hosting, I use Amazon Web Services (AWS) which is a very cost effective and fast solution.</p>
 						<p>Put simply, Netflix use's AWS so you know it must be good.</p>
 							</div>
 				</div>
