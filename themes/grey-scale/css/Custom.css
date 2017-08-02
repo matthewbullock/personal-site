@@ -130,8 +130,8 @@ p > a:hover{
 }
 
 .wallpaper {
-    -webkit-clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
-  	clip-path: polygon(0 0, 1600px 0, 1600px 87%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 4000px 0, 4000px 87%, 0 100%);
+  	clip-path: polygon(0 0, 4000px 0, 4000px 87%, 0 100%);
 }
 
 #About {

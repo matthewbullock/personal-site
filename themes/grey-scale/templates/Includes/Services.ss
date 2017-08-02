@@ -12,7 +12,7 @@
             <p data-scrollreveal="enter up move 50px over 3.5s">Services I provide</p>
         </div>
          <div class="col-lg-4 text-center">
-          	<i class="fa fa-fw fa-facebook" data-scrollreveal="enter up move 50px over 3.5s"></i>
+          	<i class="fa fa-fw fa-linkdin" data-scrollreveal="enter up move 50px over 3.5s"></i>
             <h3 data-scrollreveal="enter up move 50px over 3.5s">Development</h3>
             <p data-scrollreveal="enter up move 50px over 3.5s">Services I provide</p>
         </div>

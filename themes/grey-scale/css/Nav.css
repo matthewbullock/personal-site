@@ -47,6 +47,16 @@
   }
 }
 
+@media only screen and (min-width: 1500px) {
+  .cd-auto-hide-header {
+    height: 60px;
+  }
+  .cd-auto-hide-header::after {
+    background: transparent;
+  }
+}
+
+
 
 
 .cd-auto-hide-header .logo,
